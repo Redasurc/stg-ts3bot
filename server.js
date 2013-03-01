@@ -1,5 +1,5 @@
 var ts3apiClass = require('./lib/src/ts3api.js').ts3api;
-var botconfig = require('./cfg/bot.js').config;
+var botconfig = require('./cfg/bot.json');
 var Ts3clients = require('./lib/src/ts3clients.js').ts3clients;
 var slog = require('./lib/src/syslog.js').syslog;
 
