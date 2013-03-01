@@ -14,7 +14,7 @@
     "start": "node ./bin/http-server",
     "test": "mocha"
   },
-  "main": "./lib/server.js",
+  "main": "./lib/main.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/redasurc/stg-ts3bot.git"
@@ -29,7 +29,7 @@
     "buffers"  : "0.1.1",
     "chainsaw" : "0.1.0",
     "cli-color": "0.2.1",
-    "traverse" : "0.6.4",
+    "traverse" : "*",
     "ts3sq"    : "0.1.2"
   },
   "analyze": false,
