@@ -12,7 +12,7 @@
   ],
   "scripts": {
     "start": "node ./bin/http-server",
-    "test": "vows --spec --isolate"
+    "test": "mocha"
   },
   "main": "./lib/server.js",
   "repository": {
@@ -34,6 +34,7 @@
   },
   "analyze": false,
   "devDependencies": {
+    "mocha"    : "1.8.1"
   },
   "bundledDependencies": [
   ],  
