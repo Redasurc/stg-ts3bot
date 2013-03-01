@@ -1,0 +1,44 @@
+{
+  "name": "stg-ts3bot",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "author": "Redasurc <redasurc@stg-gaming.eu>",
+  "description": "An advanced Teamspeak bot which brings lots of new features to the TS3 Server",
+  "contributors": [ 
+    {
+      "name": "Meier49",
+      "email": "meier49@stg-gaming.eu"
+    } 
+  ],
+  "scripts": {
+    "start": "node ./bin/http-server",
+    "test": "vows --spec --isolate"
+  },
+  "main": "./lib/server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redasurc/stg-ts3bot.git"
+  },
+  "keywords": [
+    "ts3",
+    "bot",
+    "teamspeak"
+  ],
+  "dependencies" : {
+    "binary"   : "0.3.0",
+    "buffers"  : "0.1.1",
+    "chainsaw" : "0.1.0",
+    "cli-color": "0.2.1",
+    "traverse" : "0.6.4",
+    "ts3sq"    : "0.1.2"
+  },
+  "analyze": false,
+  "devDependencies": {
+  },
+  "bundledDependencies": [
+  ],  
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6.12"
+  }
+}
