@@ -30,14 +30,15 @@
     "chainsaw" : "0.1.0",
     "cli-color": "0.2.1",
     "traverse" : "*",
-    "ts3sq"    : "0.1.2"
+    "ts3sq"    : "0.1.2",
+    "mysql"    : "2.0.0-alpha7"
   },
   "analyze": false,
   "devDependencies": {
     "mocha"    : "1.8.1"
   },
   "bundledDependencies": [
-  ],  
+  ],
   "license": "MIT",
   "engines": {
     "node": ">=0.6.12"
