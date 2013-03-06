@@ -1,0 +1,7 @@
+{
+    "host": "db",
+    "user": "ts3bot",
+    "password": "asdasdasd",
+    "database": "ts3bot",
+    "tableprefix": "test"
+}
