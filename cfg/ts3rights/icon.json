@@ -1,0 +1,25 @@
+/**
+  * A template for all icon classes
+  */
+{
+    "b_group_is_permanent": {
+        "perm_value": 1,
+        "perm_negated": 0,
+        "perm_skip": 0
+    }
+    "i_group_needed_modify_power": {
+        "perm_value": 75,
+        "perm_negated": 0,
+        "perm_skip": 0
+    }
+    "i_group_needed_member_add_power": {
+        "perm_value": 75,
+        "perm_negated": 0,
+        "perm_skip": 0
+    } 
+    "i_group_needed_member_remove_power": {
+        "perm_value": 75,
+        "perm_negated": 0,
+        "perm_skip":0
+    }
+}

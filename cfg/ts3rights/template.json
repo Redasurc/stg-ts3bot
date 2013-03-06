@@ -1,0 +1,2369 @@
+/** THIS TEMPLATE CONTAINS ALL POSSIBLE TS3 RIGHTS - ONLY USE THE RIGHTS YOU WANNA DEFINE IN YOUR CONFIG FILES **/
+
+{
+    "b_serverinstance_help_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_version_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverquery_login": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_select": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_auto_update_type": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_needed_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_child": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_modify_with_codec_celtmono48": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_modify_with_codec_speex16": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_modify_with_codec_speex32": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_modify_with_codec_speex8": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_semi_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_temporary": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_with_default": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_with_description": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_with_maxclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_with_maxfamilyclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_with_needed_talk_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_with_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_with_sortorder": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_with_topic": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_delete_flag_force": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_delete_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_delete_semi_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_delete_temporary": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_join_ignore_maxclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_join_ignore_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_join_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_join_semi_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_join_temporary": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_codec": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_codec_latency_factor": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_codec_quality": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_description": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_make_default": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_make_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_make_semi_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_make_temporary": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_maxclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_maxfamilyclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_name": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_needed_talk_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_parent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_sortorder": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_topic": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_ban_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_ban_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_ban_delete_own": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_ban_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_channel_textmessage_send": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_complain_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_complain_delete_own": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_complain_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_create_modify_serverquery_login": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_custom_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_delete_dbproperties": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_ignore_antiflood": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_ignore_bans": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_issue_client_query_command": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_modify_dbproperties": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_modify_description": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_modify_own_description": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_offline_textmessage_send": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_permissionoverview_own": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_permissionoverview_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_remoteaddress_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_server_textmessage_send": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_set_flag_talker": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_skip_channelgroup_permissions": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_use_channel_commander": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_use_reserved_slot": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_ft_ignore_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_ft_transfer_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_group_is_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_icon_manage": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_permission_modify_power_ignore": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_binding_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_log_add": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_log_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_modify_querygroup": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_modify_settings": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_modify_templates": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_permission_find": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_stop": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_textmessage_send": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_serverinstance_virtualserver_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_change_machine_id": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_change_template": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channelclient_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channelgroup_client_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channelgroup_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channelgroup_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channelgroup_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channelgroup_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channel_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channel_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_channel_search": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_client_dbinfo": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_client_dblist": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_client_dbsearch": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_client_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_client_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_client_search": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_connectioninfo_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_custom_search": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_join_ignore_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_log_add": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_log_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_antiflood": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_autostart": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_channel_forced_silence": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_codec_encryption_mode": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_complain": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_default_channeladmingroup": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_default_channelgroup": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_default_servergroup": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_ft_quotas": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_ft_settings": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_hostbanner": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_hostbutton": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_hostmessage": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_icon_id": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_log_settings": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_maxclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_min_client_version": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_name": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_needed_identity_security_level": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_port": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_priority_speaker_dimm_modificator": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_reserved_slots": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_weblist": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_welcomemessage": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_notify_register": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_notify_unregister": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_permission_find": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_permission_reset": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_servergroup_client_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_servergroup_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_servergroup_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_servergroup_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_servergroup_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_snapshot_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_snapshot_deploy": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_start": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_start_any": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_stop": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_stop_any": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_token_add": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_token_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_token_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_token_use": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_create_modify_with_codec_latency_factor_min": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_create_modify_with_codec_maxquality": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_delete_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_description_view_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_join_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_max_depth": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_subscribe_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_ban_max_bantime": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_ban_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_complain_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_kick_from_channel_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_kick_from_server_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_max_channel_subscriptions": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_max_clones_uid": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_move_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_ban_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_complain_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_kick_from_channel_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_kick_from_server_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_move_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_poke_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_private_textmessage_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_serverquery_view_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_poke_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_private_textmessage_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_serverquery_view_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_directory_create_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_file_browse_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_file_delete_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_file_download_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_file_rename_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_file_upload_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_quota_mb_download_per_client": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_quota_mb_upload_per_client": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_auto_update_max_value": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_member_add_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_member_remove_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_needed_member_add_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_needed_member_remove_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_icon_id": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_max_icon_filesize": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_child": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_codec_celtmono48": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_codec_latency_factor_min": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_codec_maxquality": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_codec_speex16": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_codec_speex32": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_codec_speex8": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_semi_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_temporary": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_with_default": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_with_description": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_with_maxclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_with_maxfamilyclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_with_needed_talk_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_with_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_with_sortorder": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_with_topic": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_delete_flag_force": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_delete_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_delete_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_delete_semi_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_delete_temporary": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_description_view_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_group_inheritance_end": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_join_ignore_maxclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_join_ignore_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_join_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_join_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_join_semi_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_join_temporary": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_max_depth": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_min_depth": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_codec": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_codec_latency_factor": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_codec_quality": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_description": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_make_codec_encrypted": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_make_default": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_make_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_make_semi_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_make_temporary": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_maxclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_maxfamilyclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_name": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_needed_talk_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_parent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_sortorder": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_modify_topic": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_needed_delete_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_needed_description_view_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_needed_join_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_needed_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_needed_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_needed_subscribe_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_subscribe_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ban_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ban_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ban_delete_own": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ban_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ban_max_bantime": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ban_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_channel_textmessage_send": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_complain_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_complain_delete_own": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_complain_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_complain_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_create_modify_serverquery_login": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_custom_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_delete_dbproperties": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_force_push_to_talk": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ignore_antiflood": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ignore_bans": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_is_priority_speaker": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_issue_client_query_command": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_kick_from_channel_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_kick_from_server_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_max_avatar_filesize": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_max_channel_subscriptions": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_max_clones_uid": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_max_idletime": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_modify_dbproperties": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_modify_description": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_modify_own_description": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_move_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_ban_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_complain_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_kick_from_channel_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_kick_from_server_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_move_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_poke_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_private_textmessage_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_serverquery_view_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_talk_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_needed_whisper_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_offline_textmessage_send": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_permissionoverview_own": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_permissionoverview_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_poke_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_private_textmessage_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_remoteaddress_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_serverquery_view_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_server_textmessage_send": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_set_flag_talker": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_skip_channelgroup_permissions": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_talk_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_use_channel_commander": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_use_reserved_slot": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_whisper_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_directory_create_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_file_browse_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_file_delete_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_file_download_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_file_rename_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_file_upload_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_ignore_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_needed_directory_create_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_needed_file_browse_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_needed_file_delete_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_needed_file_download_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_needed_file_rename_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_needed_file_upload_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_quota_mb_download_per_client": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_quota_mb_upload_per_client": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_ft_transfer_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_auto_update_max_value": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_auto_update_type": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_is_permanent": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_member_add_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_member_remove_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_needed_member_add_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_needed_member_remove_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_needed_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_show_name_in_tree": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_group_sort_id": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_icon_id": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_icon_manage": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_max_icon_filesize": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_permission_modify_power_ignore": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_binding_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_help_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_log_add": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_log_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_modify_querygroup": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_modify_settings": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_modify_templates": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_permission_find": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_stop": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_textmessage_send": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_version_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverinstance_virtualserver_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_serverquery_login": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_change_machine_id": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_change_template": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channelclient_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channelgroup_client_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channelgroup_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channelgroup_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channelgroup_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channelgroup_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channel_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channel_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_channel_search": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_client_dbinfo": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_client_dblist": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_client_dbsearch": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_client_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_client_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_client_search": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_connectioninfo_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_custom_search": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_info_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_join_ignore_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_log_add": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_log_view": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_antiflood": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_autostart": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_channel_forced_silence": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_codec_encryption_mode": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_complain": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_default_channeladmingroup": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_default_channelgroup": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_default_servergroup": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_ft_quotas": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_ft_settings": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_hostbanner": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_hostbutton": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_hostmessage": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_icon_id": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_log_settings": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_maxclients": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_min_client_version": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_name": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_needed_identity_security_level": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_port": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_priority_speaker_dimm_modificator": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_reserved_slots": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_weblist": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_welcomemessage": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_notify_register": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_notify_unregister": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_permission_find": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_permission_reset": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_select": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_servergroup_client_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_servergroup_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_servergroup_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_servergroup_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_servergroup_permission_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_snapshot_create": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_snapshot_deploy": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_start": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_start_any": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_stop": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_stop_any": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_token_add": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_token_delete": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_token_list": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_token_use": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_permission_modify_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_modify_make_codec_encrypted": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_max_avatar_filesize": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_talk_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_needed_file_rename_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_needed_directory_create_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_needed_file_browse_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_needed_file_delete_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_needed_file_download_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_ft_needed_file_upload_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_show_name_in_tree": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_group_sort_id": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_channel_min_depth": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_whisper_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_client_needed_talk_power": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_temporary_passwords": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_temporary_passwords": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_virtualserver_modify_temporary_passwords_own": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_virtualserver_modify_temporary_passwords_own": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_request_talker": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_request_talker": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_avatar_delete_other": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_avatar_delete_other": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_force_password": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_client_ignore_sticky": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_ignore_sticky": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_client_is_sticky": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_private": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_private": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_modify_with_codec_opusvoice": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_codec_opusvoice": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "b_channel_create_modify_with_codec_opusmusic": {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }, 
+    "i_needed_modify_power_channel_create_modify_with_codec_opusmusi":  {
+        "perm_value": "",
+        "perm_negated": "",
+        "perm_skip": ""
+    }
+}
