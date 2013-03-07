@@ -32,7 +32,8 @@
     "traverse" : "*",
     "ts3sq"    : "0.1.2",
     "mysql"    : "2.0.0-alpha7",
-    "node-zip" : "git://github.com/Redasurc/node-zip.git"
+    "node-zip" : "git://github.com/Redasurc/node-zip.git",
+    "commander": "*"
   },
   "analyze": false,
   "devDependencies": {
