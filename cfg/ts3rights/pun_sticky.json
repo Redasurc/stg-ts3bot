@@ -1,0 +1,20 @@
+/**
+  * Client is prohibited to switch channel
+  */
+{
+    "extends": "pun_general",
+    "perm": {
+        "b_channel_join_permanent": {
+            "perm_negated": 1
+        },
+        "b_channel_join_semi_permanent": {
+            "perm_negated": 1
+        },
+        "b_channel_join_temporary":{
+            "perm_negated": 1
+        },
+        "i_icon_id":{
+            "perm_value": 3334365711
+        }
+    }
+}

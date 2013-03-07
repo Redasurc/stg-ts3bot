@@ -1,0 +1,8 @@
+{
+    "extends": "general",
+    "perm": {
+        "i_group_sort_id":{
+            "perm_value": 15
+        }
+    }
+}

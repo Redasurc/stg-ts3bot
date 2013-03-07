@@ -23,5 +23,9 @@
 	"bot": {
 		"name": "TS3 Bot: James",
 		"channel": 139
-	}
+	},
+    //Check server groups for not registered and delete them
+    "groups":{
+        "cleanup": "true",
+    }
 }

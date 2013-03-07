@@ -1,0 +1,11 @@
+{
+    "extends": "general",
+    "perm": {
+        "i_group_sort_id":{
+            "perm_value": 18
+        },
+        "i_icon_id":{
+            "perm_value": 712128173
+        }
+    }
+}

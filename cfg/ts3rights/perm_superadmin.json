@@ -1,0 +1,8 @@
+{
+    "extends": "general",
+    "perm": {
+        "i_group_show_name_in_tree": {
+            "perm_value": 1
+        }
+    }
+}

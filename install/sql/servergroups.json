@@ -1,0 +1,48 @@
+{
+    //Labels:
+    "Clan:": {
+        "class": "label_clan"
+    },
+    "Power:": {
+        "class": "label_power"
+    },
+    "----------": {
+        "class": "label_spacer"
+    },
+    "Award:" {
+        "class": "label_awards"
+    },
+    "Games:" {
+        "class": "label_games"
+    },
+    "Rank:" {
+        "class": "label_rank"
+    },
+
+    // POWERS:
+    "SA": {
+        "class": "perm_superadmin",
+        "fixId": 6
+    },
+    "A": {
+        "class": "perm_admin"
+    },
+    "Mod": {
+        "class": "perm_mod"
+    },
+    "Member": {
+        "class": "perm_member",
+        "fixId": 7  //vl nicht grp 8 verwenden!!!
+    },
+    "Recrut": {
+        "class": "perm_recrut"
+    },
+    "Registered Guest": {
+        "class": "perm_reg_guest"
+    },
+    "Guest": {
+        "class": "perm_guest",
+        "fixId": 8
+    }
+
+}

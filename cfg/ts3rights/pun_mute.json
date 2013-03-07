@@ -1,0 +1,18 @@
+/**
+  * Client is prohibited to talk (muted)
+  */
+{
+    "extends": "pun_general",
+    "perm": {
+        "i_client_talk_power": {
+            "perm_value": -1,
+            "perm_negated": 1
+        },
+        "i_client_needed_talk_power": {
+            "perm_value": 100
+        },
+        "i_icon_id":{
+            "perm_value": 3139721097
+        }
+    }
+}
